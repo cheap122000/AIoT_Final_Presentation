@@ -5,6 +5,21 @@
 將資料集(dataset)內的 solar_data_202003_202007.csv 的太陽能案場發電資料做為訓練資料集訓練你的預測模型，預測 2020年一月、二月、八月、九月、十月的 **發電度數** 。
 
 訓練完後需將模型做成 restful API 按照以下格式接收並回傳資料，restful API 需開啟對外連線的功能，可自行架設或直接使用 ngrok。
+### ngrok 使用方式
+- /ngrok 資料夾底下找相對應的 ngrok壓縮包解壓縮即可
+- 若無您的版本，可至 [https://ngrok.com/download](https://ngrok.com/download) 下載
+- 解壓縮完後 cd 至 ngrok 主程式資料夾底下
+- 使用以下指令執行 ngrok 主程式，預設綁定 flask 預設 port(5000)
+```
+windows: 
+>> ngrok.exe http 5000
+
+mac:
+>> ./ngrok.exe http 5000
+```
+- 執行後即可取得 https 加密的 dns
+
+
 
 &nbsp;
 ### [作業網址: http://aiotfinal.ddns.net:8000/ ](http://aiotfinal.ddns.net:8000/)
