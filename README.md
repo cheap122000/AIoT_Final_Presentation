@@ -39,5 +39,5 @@
 - 回傳的 predictions 帶入模型後回傳的資料
 
 &nbsp;
-### <font color=#F03C15>注意</font>
-- <font color=#F03C15>回傳的 **predictions 長度** 要與 **輸入的 questions 長度** 相同</font>
+### 注意 
+- 回傳的 **predictions 的長度** 要與 **輸入的 questions 長度** 相同
