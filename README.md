@@ -7,6 +7,9 @@
 訓練完後需將模型做成 restful API 按照以下格式接收並回傳資料，restful API 需開啟對外連線的功能，可自行架設或直接使用 ngrok。
 
 #### [作業網址: http://aiotfinal.ddns.net:8000/ ](http://aiotfinal.ddns.net:8000/)
+#### 登入帳號為
+- 大同大學： ttu + 學號
+- 臺科大： ntust + 學號
 
 ### 範例： 輸入 JSON 格式
 
@@ -41,3 +44,19 @@
 &nbsp;
 ### 注意 
 - 回傳的 **"predictions 的長度"** 要與 **"輸入的 questions 長度"** 相同
+
+## 上傳作業前請先確認格式是否正確
+以下為測試方法
+- 打開 test.py
+- 將程式碼第六行 <Your restful api url> 取代成你的 api url
+```
+6.  url = '<Your restful api url>' ＃取代成你的 api url
+```
+- 執行程式
+```
+>> python test.py
+```
+- 如果看到 **"基礎測試完成，可以教作業了"** 就可以教作業了
+
+### 程式碼僅供基礎測試，若繳交作業失敗仍找不出原因，請 email 給老師
+老師 Email: weikai.chen@tatung.com
