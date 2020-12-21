@@ -19,7 +19,7 @@ mac:
 ```
 - 執行後即可取得 https 加密的 dns
 ![image](https://github.com/cheap122000/AIoT_Final_Presentation/blob/master/ngrok/ngrok_capture.PNG)
-
+- 在 dns 後加上你的 api url 即可
 
 &nbsp;
 ### [作業網址: http://aiotfinal.ddns.net:8000/ ](http://aiotfinal.ddns.net:8000/)
