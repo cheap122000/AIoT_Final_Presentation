@@ -13,9 +13,7 @@
 ```
 {
     "columns": 
-        [
-            "YEAR", "MONTH", "DAY", "HOUR", "OPTPWR", "ACV1", "ACV2", "ACCL1", "ACCL2", "ACF1", "IIT", "IHT", "DCVL1", "DCVL2", "IPA", "IPB"
-        ],
+        ["YEAR", "MONTH", "DAY", "HOUR", "OPTPWR", "ACV1", "ACV2", "ACCL1", "ACCL2", "ACF1", "IIT", "IHT", "DCVL1", "DCVL2", "IPA", "IPB"],
     "questions": [
             [],[],[]
         ]
