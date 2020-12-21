@@ -45,12 +45,14 @@
 ### 注意 
 - 回傳的 **"predictions 的長度"** 要與 **"輸入的 questions 長度"** 相同
 
+&nbsp;
+
 ## 上傳作業前請先確認格式是否正確
 以下為測試方法
 - 打開 test.py
 - 將程式碼第六行 <Your restful api url> 取代成你的 api url
 ```
-6.  url = '<Your restful api url>' ＃取代成你的 api url
+6.  url = '<Your restful api url>' # 取代成你的 api url
 ```
 - 執行程式
 ```

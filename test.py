@@ -3,7 +3,7 @@ import json
 import random
 import sys
 
-url = '<Your restful api url>'
+url = '<Your restful api url>' # 取代成你的 api url
 
 example_data = [
     [2020, 10, 6, 15, 13.52, 230, 226, 20.1, 19.3, 60.1, 41, 42, 749, 750, 6.73, 6.81],
