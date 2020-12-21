@@ -6,4 +6,4 @@
 
 訓練完後需將模型做成 restful API 按照以下格式接收並回傳資料，restful API 需開啟對外連線的功能，可自行架設或直接使用 ngrok。
 
-#### 作業網址 [Heading link](http://aiotfinal.ddns.net:8000/ "Heading link")
+#### [作業網址: http://aiotfinal.ddns.net:8000/ ](http://aiotfinal.ddns.net:8000/)
