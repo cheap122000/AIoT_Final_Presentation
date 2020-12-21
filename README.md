@@ -8,7 +8,7 @@
 
 #### [作業網址: http://aiotfinal.ddns.net:8000/ ](http://aiotfinal.ddns.net:8000/)
 
-#### 輸入 JSON 格式
+#### 範例： 輸入 JSON 格式
 
 ```
 {
