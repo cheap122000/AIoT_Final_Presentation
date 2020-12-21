@@ -39,5 +39,5 @@
 - 回傳的 predictions 帶入模型後回傳的資料
 
 &nbsp;
-### 注意
+### ![#f03c15](注意)
 - 回傳的 **predictions 的長度** 要與 **輸入的 questions** 長度相同
