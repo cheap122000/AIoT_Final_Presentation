@@ -18,7 +18,7 @@ mac:
 >> ./ngrok.exe http 5000
 ```
 - 執行後即可取得 https 加密的 dns
-
+![image](https://github.com/cheap122000/AIoT_Final_Presentation/blob/master/ngrok/ngrok_capture.PNG)
 
 
 &nbsp;
