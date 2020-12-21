@@ -40,4 +40,4 @@
 
 &nbsp;
 ### 注意 
-- 回傳的 **predictions 的長度** 要與 **輸入的 questions 長度** 相同
+- 回傳的 **"predictions 的長度"** 要與 **"輸入的 questions 長度"** 相同
