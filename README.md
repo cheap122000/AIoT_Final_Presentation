@@ -8,7 +8,7 @@
 
 #### [作業網址: http://aiotfinal.ddns.net:8000/ ](http://aiotfinal.ddns.net:8000/)
 
-#### 範例： 輸入 JSON 格式
+### 範例： 輸入 JSON 格式
 
 ```
 {
@@ -25,7 +25,9 @@
 - columns 為欄位名稱
 - questions 為需要預測之資料(每次筆數不會固定)
 
-#### 範例： 回傳 JSON 格式
+&nbsp;
+
+### 範例： 回傳 JSON 格式
 
 ```
 {
@@ -36,5 +38,6 @@
 ### 備註：
 - 回傳的 predictions 帶入模型後回傳的資料
 
-## 注意
+&nbsp;
+### 注意
 - 回傳的 **predictions 的長度** 要與 **輸入的 questions** 長度相同
