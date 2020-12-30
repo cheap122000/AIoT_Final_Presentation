@@ -23,6 +23,7 @@ mac:
 
 &nbsp;
 ### [作業網址: http://aiotfinal.ddns.net:8000/ ](http://aiotfinal.ddns.net:8000/)
+- **2020/12/30 18:30 已知網路伺服器異常，請靜待修復**
 ### 登入帳號為
 - 大同大學： ttu + 學號
 - 臺科大： ntust + 學號
