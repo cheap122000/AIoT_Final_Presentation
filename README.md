@@ -22,9 +22,10 @@ mac:
 - 在 dns 後加上你的 api url 即可
 
 &nbsp;
-### [作業網址: http://aiotfinal.ddns.net:8000/ ](http://aiotfinal.ddns.net:8000/)
+### [作業網址: http://tatungbigdata.southeastasia.cloudapp.azure.com:9999 ](http://tatungbigdata.southeastasia.cloudapp.azure.com:9999)
 - **2020/12/30 18:30 已知網路伺服器異常，請靜待修復**
 ### 登入帳號為
+- **2020/12/31 13:40 更換伺服器位置，網址有變動，請注意**
 - 大同大學： ttu + 學號
 - 臺科大： ntust + 學號
 
